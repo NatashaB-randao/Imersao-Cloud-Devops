@@ -7,4 +7,4 @@ services:
     ports:
       - "8000:8000"  # Mapeia a porta 8000 do host para a porta 8000 do container
     volumes:
-      - .:/app  # Monta o diretório atual no container para desenvolvimento
+      - .:/app  # Monta o diretório atual no container para desenvolvimento.
